@@ -1,3 +1,3 @@
 # Anto Hello-World
 
-Updated, merged and commited back to repo
+Updated, merged and commited back to repo.
